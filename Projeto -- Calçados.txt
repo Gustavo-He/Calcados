@@ -1,0 +1,42 @@
+Gráficos de pessoas contradas por industrias.
+Economia geral
+
+Breve Histórico:
+
+Processo de Reconhecimento:
+
+Benefícios da Indicação Geográfica:
+
+Parceiros e Colaboradores:
+
+
+https://pt.wottactic.com/lol
+
+http://www.birigui.sp.gov.br/birigui/noticias/noticias_detalhes.php?id_noticia=5926 ( Monumento la da praça)
+
+https://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=450399 (primeira empresa calçadista)
+
+https://museubirigui.com.br/ (Bagui q tem tudo, só confia)
+
+https://www.abphe.org.br/arquivos/marco-aurelio-barbosa-de-souza_1.pdf (pra estudo de taxa de empregados e etc)
+
+https://sinbi.org.br/nossas-industrias/ ( Sinbi todas industrias participantes) 
+
+https://doutorvarejo.com/capital-do-calcado-infantil/ ------ https://www.hojemais.com.br/aracatuba/noticia/economia/sistema-mapeia-1070-empresas-ativas-ligadas-ao-calcado-em-birigui (Estudar do pq birigui se tornou um polo) 
+
+WordPress
+Gradient
+css3 Generetor
+
+Ok, realizarei um site normal com informações atuais e gráficos demonstrativos de cm as empresas calçadistas tem gerado e transformado a economia em birigui e as contratações.
+Deixarei divisões 3 a 4, redirecionando as pessoas a história do calçado, principais empresas, contemporaneidade e modificando a paleta de cores e escrita conforme a passagem de tempo.
+
+Precisarei falar ssobre a logo e suas caracteristicas.
+
+Irei utulizar das imagens em cada tema, diversificando elas em posições atrativas e não muito repetitivas, com pequenas explicações ao lado.
+
+Para a parte historica posicionarei as imagens aos lados com legendas abaixo, e textos centralizados ( Fonte para essa parte -- @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap'); ------ font-family: 'Rubik', sans-serif;
+
+Para a parte atual utilizarei de imagens destacadas no meio e textos a frente, ou até mesmo imagens de fundo fixadas c textos de fundo e cores um pouco frias. A fonte a qual eu irei utilizar é @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap'); --- (font-family: 'Roboto Condensed', sans-serif;
+
+Na parte do espaço geográfico posso colocar cores de transições entre as duas e situaria o pq de birigui ter sido escolhida para o polo dos calçados, e pq sua posição geográfica influencia nisto.
